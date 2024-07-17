@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: "IM FELL Double Pica";
+    src: url('/public/fonts/IMFellDoublePica-Regular.ttf') format("truetype");
+}
